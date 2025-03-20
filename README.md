@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ---
 
 ## 🎨 Customization Options
-- ✏️ **Change Watermark Text:** Modify the `watermark_text` variable inside `script.py`.
+- ✏️ **Change Watermark Text:** Enter the Text to use as Watermark when Prompted While Execution.
 - 🔠 **Use a Different Font:** Change the font path in `create_watermark_image`.
 - 📍 **Adjust Watermark Position:** Modify the drawing coordinates in the script.
 - 🎭 **Change Transparency & Color:** Edit the `fill` parameter in `PIL` drawing.
