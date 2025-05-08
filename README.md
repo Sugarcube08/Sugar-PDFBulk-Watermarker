@@ -72,7 +72,7 @@ Want to improve this project? 🎯 Fork the repository, make changes, and submit
 For any issues or feature requests, open a ticket on GitHub. 🛠️
 
 ---
-# Made with ❤️ by SugarCube
+## Made with ❤️ by SugarCube
 ---
 ## ☕ Support Me
 If you like this project, consider buying me
